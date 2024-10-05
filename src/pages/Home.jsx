@@ -15,7 +15,7 @@ const Home = () => {
           <Navbar />
           <div className="home__content--profil">
             <Header />
-      <Profil/>
+            <Profil/>
           </div>
         </div>
       </div>
